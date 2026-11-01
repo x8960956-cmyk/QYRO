@@ -574,6 +574,12 @@ Ensure background and foreground have extreme contrast (dark background with vib
   }
 });
 
+// Google Search Console Site Verification
+app.get('/google4f8212b72f71214c.html', (_req, res) => {
+  res.setHeader('Content-Type', 'text/html; charset=utf-8');
+  res.send('google-site-verification: google4f8212b72f71214c.html');
+});
+
 // ==========================================
 // 6. SPA and Vite Setup
 // ==========================================
