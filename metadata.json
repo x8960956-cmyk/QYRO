@@ -1,0 +1,6 @@
+{
+  "name": "QYRO — Universal QR Code Generator, Scanner & Design Platform",
+  "description": "Scan Different. Connect Everything. Generate, customize, scan, and manage static and dynamic QR codes with AI styling, real-time analytics, and bulk export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
